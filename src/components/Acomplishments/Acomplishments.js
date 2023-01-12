@@ -7,7 +7,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const Acomplishments = () => (
   <Section>
-    <SectionTitle>Personal Accomplishments</SectionTitle>
+    <SectionTitle>2022 accomplishments</SectionTitle>
     <Boxes>
       {data.map((card, index) => (
         <Box key={index}>

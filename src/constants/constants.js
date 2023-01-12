@@ -46,9 +46,9 @@ export const TimeLineData = [
 ];
 
 export const data = [
-  { number: 20, text: 'Open Source Projects' },
-  { number: 1000, text: 'Students', },
-  { number: 1900, text: 'Github Followers', },
-  { number: 5000, text: 'Github Stars', }
+  { number: 10, text: 'Industry experience' },
+  { number: 20, text: 'Product Solutions', },
+  { number: 89, text: '% Troubleshooting Content views', },
+  { number: 33.5, text: '% Overall growth', }
 ];
 
