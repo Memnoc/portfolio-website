@@ -38,11 +38,12 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2018, text: 'Promoted to Support Engineer - working with APIs and Zendesk integrations', },
+  { year: 2019, text: 'Become Technical Architect - Supporting high ARR customers on complex workflows', },
+  { year: 2020, text: 'Sharing knowledge as Technical Writer - Coding front-end solution in Zendek Guide', },
+  { year: 2021, text: 'Proactive and Automated Support Specialist - Delivering custom IPM and automation', },
+  { year: 2022, text: 'Front-end developer - building&leading Zendesk Automation Team' },
+
 ];
 
 export const data = [
